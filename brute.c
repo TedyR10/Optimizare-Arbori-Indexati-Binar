@@ -16,7 +16,6 @@ int query(int beg, int end, int v[]){
   return sum;
 }
 
- 
 int main()
 {
     int aib[NMAX], v[NMAX];
